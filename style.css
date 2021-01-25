@@ -1,0 +1,102 @@
+#logo{
+    width: 100px;
+    height: 50px;
+}
+.top-banner{
+
+   background-image: linear-gradient(to bottom,#F0FFF0 0%, #F0FFF0 100%);
+
+}
+.btn-dg{
+    max-width: 150px;
+    border-radius: 33px;
+    border: none;
+    background:#21B573 ;
+    color: #FFFFFF;
+    
+}
+#getstart{
+    width: 150px;
+    height: 40px;
+    margin-top: 30px;
+    
+}
+
+
+body{
+font-family: Poppins;
+font-style: normal
+
+}
+.container{
+    margin-bottom: 100px;
+}
+#h-image{
+    width: 50%;
+}
+#t1{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 45px;
+    color: red;
+
+
+}
+#t2{
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 70px;
+}
+#t2 span{
+    color: seagreen;
+}
+#t3{
+    font-size: 16px;
+    font-weight:400px;
+    line-height: 36px;
+    color:#6C6B6B ;
+}
+#img-ils{
+    
+    height: 346px;
+    width: 500px;
+    
+    margin-bottom: 70px;
+    
+    
+}
+.i-img{
+    width: 66px;
+    height: 85px;  
+}
+.i-box{
+    width: 270px;
+    height: 270px;
+    background:#F8FFFB ;
+    border-radius: 10px;
+    
+    margin: 10px;
+    
+    
+}
+.h1t{
+   
+    font-size: 24px; 
+    font-weight: 500;
+    line-height: 36px;
+    text-align: center;
+    color: #413960;
+}
+.h2t{
+   
+    font-size: 16px; 
+    font-weight: normal;
+    line-height: 24px;
+    text-align: center;
+    color: #585859;
+}
+
+
+
+
+
